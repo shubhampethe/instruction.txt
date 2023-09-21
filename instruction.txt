@@ -21,3 +21,5 @@ created Token Setting --> Developer--Create Clasic Token
 
 git remote add a3 githuburl
 git push a3 master
+
+cloning repo locally
